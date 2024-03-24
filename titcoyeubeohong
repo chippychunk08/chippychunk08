@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moving button | Jessica</title>
+    <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+    <div class="wrapper">
+        <h2 class="question">Tít còn iu tui nữaaa hongg👉👈</h2>
+        <h4 class="question-prompt">Nếu anh không chọn hoặc thoát là Tít ghét tui rồi</h4>
+        <img class="gif" alt="gif" src="https://media.giphy.com/media/PcCh9x9Pz5d2CriuMQ/giphy.gif"/>
+        <div class="btn-group">
+            <button class="yes-btn">Không iu Béo😠</button>
+            <button class="no-btn">có iu Béo 😽</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
